@@ -1,7 +1,9 @@
 # LinkedIn Auto Comment -- Engage Smarter, Not Harder
 
 <div align="center">
-  <video src="https://github.com/ziqi-lydia/linkedin-auto-comment/raw/main/demo.mp4" width="600" controls></video>
+
+### [> Watch Demo Video](https://github.com/ziqi-lydia/linkedin-auto-comment/blob/main/demo.mp4)
+
 </div>
 
 An AI skill that automates meaningful LinkedIn engagement across your feed -- so you show up consistently, build real connections, and never miss a relevant opportunity.
